@@ -1,0 +1,77 @@
+{
+  "book_id": "medieval-european-pastoral-colonial-aftermath",
+  "title": "The Withholding of Trees",
+  "tagline": "In a conquered land, a man hiding in a ditch tastes the mud of his homeland and must decide whether to tend its scars or let them be forgotten.",
+  "target_words": 76796,
+  "actual_words": 76796,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Memory and Erasure",
+    "Land as Witness",
+    "The Lingering Violence of Conquest",
+    "The Pastoral as Refuge and Prison"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Taste of Hiding",
+      "words": 6399
+    },
+    {
+      "ch": 2,
+      "title": "A Map of Crumbling Country",
+      "words": 6399
+    },
+    {
+      "ch": 3,
+      "title": "Moot of the Dormant Gods",
+      "words": 6399
+    },
+    {
+      "ch": 4,
+      "title": "The Fourth Passenger",
+      "words": 6399
+    },
+    {
+      "ch": 5,
+      "title": "The Beetle in the Jar",
+      "words": 6399
+    },
+    {
+      "ch": 6,
+      "title": "The Spine of Leviathan",
+      "words": 6399
+    },
+    {
+      "ch": 7,
+      "title": "A Music of Betrayal",
+      "words": 6399
+    },
+    {
+      "ch": 8,
+      "title": "The Withholding of Trees",
+      "words": 6399
+    },
+    {
+      "ch": 9,
+      "title": "The Scars of the Plough",
+      "words": 6399
+    },
+    {
+      "ch": 10,
+      "title": "A Texture of Settling Dew",
+      "words": 6399
+    },
+    {
+      "ch": 11,
+      "title": "The Taste of a Message",
+      "words": 6399
+    },
+    {
+      "ch": 12,
+      "title": "The Loam of Promise",
+      "words": 6399
+    }
+  ]
+}
